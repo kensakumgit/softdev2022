@@ -6,7 +6,8 @@ int main()
 	for( i=0; i<10; i++ )
 	{
 		printf( "i = %d\n", i);
-	}
+	};
+	printf("sigu said hello.\n");
 	return 0;
 
 }
